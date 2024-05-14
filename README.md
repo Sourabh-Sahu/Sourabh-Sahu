@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--Languages and tools-->
 
-<h2 align="center">  Languages and Tools:</h2>  
+<h2 align="center">  Languages and Tools</h2>  
 
 <p align="left">
   
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
-## &#x1f4c8; My GitHub Analytics
+## &#x1f4c8; GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sourabh-Sahu&show_icons=true&theme=tokyonight" alt="Sourabh-Sahu" />
