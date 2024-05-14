@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--Languages and tools-->
 
-<h2 align="center"> 🚀 Languages and Tools:</h2>  
+<h2 align="center">  Languages and Tools:</h2>  
 
 <p align="left">
   
