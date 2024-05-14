@@ -30,6 +30,4 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<p align="center">    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-Sahu&layout=compact&theme=tokyonight" alt="Sourabh-Sahu" />
-</p>
+
